@@ -5,19 +5,19 @@ criaCartao(
 )
 
 criaCartao(
-    'invensivel',
-    'Quem é o pai de Mark?',
-    'Nolan Grayson'
+    'fisica',
+    'Quem criou a teoria da relatividade?',
+    'Albert Einstein'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'artes',
+    'Quais são as cores primarias?',
+    'São azul, amarelo e vermelho'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'astronomia',
+    'Como se forma uma supernova?',
+    'Ocorre quando uma estrela massiva esgota seu combustível nuclear, perde a pressão interna e colapsa sob a própria gravidade'
 )
