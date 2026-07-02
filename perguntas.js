@@ -1,23 +1,23 @@
 criaCartao(
-    'radiação',
-    'Qual o material mais radioativo do mundo?',
-    'O polônio-210 (Po-210)'
+    'Variavelkk',
+    'Na programação, o que é uma variável?',
+    'Um espaço na memória do computador reservado para armazenar um dado que pode ser modificado durante a execução do programa.'
 )
 
 criaCartao(
-    'fisica',
-    'Quem criou a teoria da relatividade?',
-    'Albert Einstein'
+    'Execução',
+    'Qual estrutura de repetição é geralmente escolhida quando sabemos previamente a quantidade exata de vezes que um bloco de código deve ser executado?',
+    'O loop for'
 )
 
 criaCartao(
-    'artes',
-    'Quais são as cores primarias?',
-    'São azul, amarelo e vermelho'
+    'Linguagem',
+    'O que o operador aritmético de módulo (%) costuma retornar na maioria das linguagens de programação?',
+    'O resto inteiro da divisão entre dois números inteiros. '
 )
 
 criaCartao(
-    'astronomia',
-    'Como se forma uma supernova?',
-    'Ocorre quando uma estrela massiva esgota seu combustível nuclear, perde a pressão interna e colapsa sob a própria gravidade'
+    'Função',
+    'Qual é a característica definidora de uma função recursiva?',
+    'Uma função que é capaz de invocar ou chamar a si mesma durante a sua execução.'
 )
